@@ -4,10 +4,10 @@ const CONFIG = {
     name: "이준석",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Backend Developer",
-    bio: "세상에 존재하는 다양한 문제들을 컴퓨터를 통해 해결한다는 목표를 가지고 개발에 임하고 있습니다.",
+    bio: "세상에 존재하는 다양한 문제들을 컴퓨터를 통해 해결한다는 목표를 가지고 있습니다.",
     email: "ljs9904ljs@postech.ac.kr",
-    linkedin: "www.linkedin.com/in/junseok-lee-70577a185",
-    github: "https://github.com/ljs9904ljs",
+    linkedin: "junseok-lee-70577a185",
+    github: "ljs9904ljs",
     instagram: "",
   },
   projects: [
